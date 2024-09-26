@@ -1,0 +1,30 @@
+{
+    "name": "@types/netmask",
+    "version": "2.0.1",
+    "description": "TypeScript definitions for netmask",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/netmask",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Matt Frantz",
+            "url": "https://github.com/mhfrantz",
+            "githubUsername": "mhfrantz"
+        },
+        {
+            "name": "JanST123",
+            "url": "https://github.com/JanST123",
+            "githubUsername": "JanST123"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/netmask"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "3806e60ccf292ac0293c7128ba7aae79d12ba685460313094651a25e17573517",
+    "typeScriptVersion": "4.3"
+}
