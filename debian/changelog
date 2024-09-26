@@ -1,5 +1,28 @@
-template-repository (1.0-1) unstable; urgency=medium
+node-netmask (2.0.2+~cs2.0.1-1) unstable; urgency=medium
 
-  * Initial release
+  * Team upload
+  * Embed @types/netmask and repack
+  * Declare compliance with policy 4.6.2
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Israel Galadima <izzygaladima@gmail.com>  Mon, 26 Jun 2023 09:02:08 +0000
+
+node-netmask (2.0.2-3) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + node-netmask: Add Multi-Arch: foreign.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 21 Nov 2022 10:23:53 +0000
+
+node-netmask (2.0.2-2) unstable; urgency=medium
+
+  * Team upload
+  * Fix copyright years
+  * Source-only upload to allow migration
+
+ -- Yadd <yadd@debian.org>  Tue, 16 Aug 2022 15:19:44 +0200
+
+node-netmask (2.0.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1015342)
+
+ -- Michael Ikwuegbu <michaelikwuegbu1@gmail.com>  Tue, 19 Jul 2022 15:07:33 +0100
